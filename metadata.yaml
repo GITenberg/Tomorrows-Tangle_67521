@@ -1,0 +1,41 @@
+_repo: Tomorrows-Tangle_67521
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Keller, Arthur Ignatius
+    aliases:
+    - Keller, A. I. (Arthur Ignatius)
+    - Keller, Arthur I.
+    birthdate: 1866
+    deathdate: 1924
+    gutenberg_agent_id: '7429'
+    url: http://www.gutenberg.org/2009/agents/7429
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_I._Keller
+creator:
+  author:
+    agent_name: Bonner, Geraldine
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '3132'
+    url: http://www.gutenberg.org/2009/agents/3132
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Bonner
+description: ''
+gutenberg_issued: '2022-02-28'
+identifiers:
+  gutenberg: '67521'
+language: en
+pgterms:marc904: https://archive.org/details/tomorrowstangle00bonniala
+pgterms:marc905: 20181124073804bonner
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :The Bobbs-Merrill Company,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tomorrow’s Tangle
+url: http://www.gutenberg.org/ebooks/67521
