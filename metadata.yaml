@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '7429'
     url: http://www.gutenberg.org/2009/agents/7429
     wikipedia: https://en.wikipedia.org/wiki/Arthur_I._Keller
+covers:
+- cover_type: archival
+  image_path: 67521-h/images/cover.jpg
 creator:
   author:
     agent_name: Bonner, Geraldine
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3132
     wikipedia: https://en.wikipedia.org/wiki/Geraldine_Bonner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67521#Tomorrows-Tangle
 gutenberg_issued: '2022-02-28'
 identifiers:
   gutenberg: '67521'
